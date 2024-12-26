@@ -1,0 +1,10 @@
+# Ignore sensitive files
+wp-config.php
+
+# Ignore uploads and cache
+wp-content/uploads/
+wp-content/cache/
+
+# Ignore Node.js modules and Composer dependencies
+node_modules/
+vendor/
